@@ -13,16 +13,14 @@ Turning On
 
 ### <a class="specific puckjs"></a>Puck.js
 
-Your Puck.js shipped with a battery installed, but with a small plastic tab inserted to keep it turned off.
+Your Puck.js shipped with two CR2032 coin cells. You need to insert the coin cell yourself.
 
 To turn on your Puck.js, simply:
 
 * Remove Puck.js from its packaging
 * Peel the silicone case away from the hard base using your fingers
 * Tip the Puck.js circuit board out of the case
-* Remove the battery by poking it out from the rear with a blunt object
-* Remove the clear plastic tab that was under the battery
-* Re-insert the battery - the red LED should flash once, very briefly.
+* Insert the battery - the red LED should flash once, very briefly.
 * If the green LED lights or red stays lit, it is because you have accidentally
 pressed the button down while inserting the battery. Remove the battery and try
 again, making sure the button next to the battery connector isn't pressed.
@@ -39,9 +37,10 @@ To get the best out of it, we'd recommend that you [update Puck.js's firmware](/
 
 To turn on your Pixl.js you have three main options:
 
+There is no Micro USB connector on the Puck.js 2.0b. Does Puck.js 2.0b need a new documentation? Are there any Puck.js Originals still shipping?
 * Use a Micro USB cable for power (there is no USB data connection on Pixl.js)
 * Slide a CR2032 battery into the holder on the board (with `+` facing away from the PCB)
-* Connect a power source (under 16v) between the `Vin` and `GND` pins on Pixl.js
+* Connect a power source (under 16v) between the 3V and GND pins on Pixl.js
 
 While Pixl.js ships with firmware that's fine for simple tasks, we're constantly
 improving the software and adding new features.
