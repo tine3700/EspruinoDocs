@@ -59,14 +59,11 @@ You can also buy kits of different color cases for Puck.js from the
 Turning Puck.js on
 ------------------
 
-Puck.js is assembled with a **clear plastic tab** between the battery
-and PCB to keep it turned off. To turn it on, you need to:
+Puck.js ships with two CR2032 coin cells. To turn it on, you need to:
 
 * Pull the silicone case off the top,
 * Tip the PCB out
-* Push the battery out from the back with a blunt object
-* Make sure the clear plastic tab is removed
-* Push the battery back in
+* Push the battery in the battery holder
 * Reassemble (note that the battery should be facing the black plastic case,
   and the button (next to the battery) should be positioned as far away from
   the 'step' in the case as possible.
@@ -83,7 +80,7 @@ Resetting Puck.js
 Occasionally you may want to reset Puck.js. To do this:
 
 * Take the PCB out of the silicone case
-* Place your finger nail between the Battery and the PCB, near the `Puck.js 1.x` text
+* Place your finger nail between the Battery and the PCB, near the `Puck.js 2.x` text
 * Gently pull the battery away from the PCB for 1 second and release
 * The red LED should then flash, indicating that Puck.js had rebooted.
 
